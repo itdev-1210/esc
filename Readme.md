@@ -9,10 +9,6 @@
 ## Install System
 -----------------
 
-### Extract Source code or clone from git
-```
-    git clone https://github.com/boluga/ESC-Timesheets.git
-```
 ### Env Configuration
 
 ### Install Composer and Node Modules using composer and node
